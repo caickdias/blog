@@ -4,5 +4,51 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I have a passion for solving problems, generating new ideas and learning new stuff. Fast learner and sociable, started coding at 17 when I joined college. Successfully designed, developed and released an mobile app that has ~1000 downloads (Divide aí!).
+
+I'm also an archery instructor and I have an archery club. I also love playing music, crafting things, playing video games and learning random stuff.
+
+<br />
+
+## **Technology**
+Javascript ES6, React Native (expo, dev client, svg, mlkit OCR, react navigation, ), React (hooks, contextAPI, asyncawait, react-router-dom, hook-form, chartjs), Git, Github, HTML, CSS, windtail, mySQL, typescript. Long time ago: C, Java, MVC, PHP, jQuery, CodeIgniter, Laravel.
+
+<br />
+
+## **Experience**
+#### **Indie Software Developer** - (2020 - Present) - Divide aí!
+- Fully designed, developed and released a fully functional mobile app for both iOS and Android platforms
+- App designed with Figma, developed with React Native (Expo), react-navigation, React Hook, Context API, declarative paradigms, functional components, ES6
+
+#### **Website back-end maintenance** - (2020) - https://www.concursosmarco.com.br/
+- Fixed API payment connection to the end-point while learning thirds old PHP code and MVC design
+- Refactored old PHP functions
+
+#### **Projects and quality director** - (2013 - 2014) - Junior Information Systems Enterprise at UNIMONTES
+- Planning and development of internal time clock system using CodeIgniter, PHP, jQuery, MySQL and MVC pattern
+- Team development with kanban and Github
+
+<br />
+
+## **Projects**
+
+- [Divide aí!](https://github.com/caickdias/divideai-public) - mobile app for splitting group bills when going to restaurants/pubs, etc    
+
+- [Alarm clock](https://github.com/caickdias/alarm-clock): an alarm clock where you have to solve given equation to turn it off    
+
+- [URL Parser](https://github.com/caickdias/url-parser): paste your URL and the app will parse its information
+
+- [Invoice Generator](https://github.com/caickdias/invoice-generator): Generate basic PDF invoices with Node.
+
+- [Memory game](https://github.com/caickdias/memory-game) - my first React Native project. A simple, but fully working memory game  
+
+- [Pokémon API](https://github.com/caickdias/pokemon-api-practice) - Short project for consuming pokemon API  
+    
+<br />
+
+## **Education**
+B.Sc. in Information Systems - Universidade Estadual de Montes Claros
+
+## **Community**
+
+I have a special passion for teaching beginners. I've been helping people for some years now in Facebook groups like [Javascript Brasil](https://www.facebook.com/groups/814655205536873/?hoisted_section_header_type=recently_seen&multi_permalinks=1727975640871487). I've helped through replying to posts, direct messages, Discord and calls. I've also introduced some friends to programming covering the basics, logic programming and data structures.
