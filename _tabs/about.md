@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I have a passion for solving problems, generating new ideas and learning new stuff. Fast learner and sociable, started coding at 17 when I joined college. Successfully designed, developed and released an mobile app that has ~1000 downloads (Divide aí!).
+I have a passion for solving challenging problems, exploring new ideas and diving into prominent tech stacks. I am sociable, an effective collaborator and a fast learner. I started my coding journey in college at 17 years old. I have designed, developed and successfully launched a mobile app to solve group bill splitting at restaurants.
 
 I'm also an archery instructor and I have an archery club. I also love playing music, crafting things, playing video games and learning random stuff.
 
@@ -38,15 +38,22 @@ Javascript ES6, React Native (expo, dev client, svg, mlkit OCR, react navigation
 
 - [URL Parser](https://github.com/caickdias/url-parser): paste your URL and the app will parse its information
 
-- [Invoice Generator](https://github.com/caickdias/invoice-generator): Generate basic PDF invoices with Node.
+- [Invoice Generator](https://github.com/caickdias/invoice-generator): generate basic PDF invoices with Node.
+
+- [Shell script static site](https://github.com/caickdias/shell-script-static-site): a shell script to generate a static HTML website 
+
+- [GoDev Discord bot](https://github.com/caickdias/godev-discord-bot): a bot that will send [beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/1) exercises when asked to
+
+- [Pokémon API](https://github.com/caickdias/pokemon-api-practice) - short project for consuming pokemon API  
 
 - [Memory game](https://github.com/caickdias/memory-game) - my first React Native project. A simple, but fully working memory game  
 
-- [Pokémon API](https://github.com/caickdias/pokemon-api-practice) - Short project for consuming pokemon API  
+- [Blaze crash scrap](https://github.com/caickdias/blaze-crash-scrap) - web scraping with puppeteer for game values
     
 <br />
 
 ## **Education**
+
 B.Sc. in Information Systems - Universidade Estadual de Montes Claros
 
 ## **Community**
