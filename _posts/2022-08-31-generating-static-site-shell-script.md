@@ -5,6 +5,8 @@ categories: [Shell]
 tags: [Shell, Linux]     # TAG names should always be lowercase
 ---
 
+![Bg](/assets/posts/20220831/bg.png){: width="972" height="589" style="max-width: 100%" .normal}
+
 This is a tutorial to generate a static website using Bourne shell(sh) scripting and terminal arguments. You can find the full project [here](https://github.com/caickdias/shell-script-static-site).
 
 In this project we'll create a simple site to show a list of contacts that you can pass typing the arguments or concatenating a text file.
