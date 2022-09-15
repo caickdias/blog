@@ -60,6 +60,6 @@ B.Sc. in Information Systems - Universidade Estadual de Montes Claros
 
 I have a special passion for teaching beginners. I've been helping people for some years now in Facebook groups like [Javascript Brasil](https://www.facebook.com/groups/814655205536873/?hoisted_section_header_type=recently_seen&multi_permalinks=1727975640871487). I've helped through replying to posts, direct messages, Discord and calls. I've also introduced some friends to programming covering the basics, logic programming and data structures.
 
-## **Download CV**
+## **Download Resume**
 
-You can download my CV by clicking [here](https://github.com/caickdias/curriculum/raw/main/caick_andrade_130922.pdf).
+You can download my resume by clicking [here](https://github.com/caickdias/curriculum/raw/main/caick_andrade_130922.pdf).
