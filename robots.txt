@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://caickdias.github.io/blog/blog/sitemap.xml
